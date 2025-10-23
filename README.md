@@ -1,0 +1,2 @@
+# thermometer
+Fundraiser Thermometer
